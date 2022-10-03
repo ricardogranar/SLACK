@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+/* GLOBAL */
+@font-face {
+  font-family: leaguespartan;
+  src: url(assets/fonts/LeagueSpartan-VariableFont_wght.ttf);
+}
+
+body {
+  font-family: leaguespartan, Arial, Helvetica, sans-serif;
+  min-width: 414px;
+}
